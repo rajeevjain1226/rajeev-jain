@@ -38,9 +38,11 @@ const Contact = () => {
             {/* Bio card */}
             <Card>
               <CardContent className="p-6">
-                <div className="flex h-20 w-20 items-center justify-center rounded-full bg-primary/10 text-primary">
-                  <Bot className="h-10 w-10" />
-                </div>
+                <img
+                  src={rajeevPhoto}
+                  alt="Rajeev Jain"
+                  className="h-20 w-20 rounded-full object-cover border-2 border-primary/20"
+                />
                 <h3 className="mt-4 text-lg font-bold">Rajeev Jain</h3>
                 <p className="text-sm text-muted-foreground">AI Agent Expert & Educator</p>
                 <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
