@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import Layout from "@/components/Layout";
+import rajeevPhoto from "@/assets/rajeev-jain.jpeg";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
@@ -61,27 +62,34 @@ const Index = () => (
     {/* Hero */}
     <section className="relative overflow-hidden bg-gradient-to-br from-primary/5 via-background to-accent/5">
       <div className="mx-auto max-w-6xl px-4 py-24 sm:px-6 sm:py-32">
-        <div className="max-w-2xl">
-          <Badge variant="secondary" className="mb-4 text-xs font-medium">
-            AI Agent Expert & Educator
-          </Badge>
-          <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
-            Building the Future with{" "}
-            <span className="text-primary">AI Agents</span>
-          </h1>
-          <p className="mt-5 text-lg leading-relaxed text-muted-foreground sm:text-xl">
-            I'm <strong className="text-foreground">Rajeev Jain</strong> — I help teams and individuals understand, build, and deploy intelligent AI agent systems that transform how work gets done.
-          </p>
-          <div className="mt-8 flex flex-wrap gap-3">
-            <Button asChild size="lg">
-              <Link to="/resources">
-                Explore Resources <ArrowRight className="ml-1 h-4 w-4" />
-              </Link>
-            </Button>
-            <Button asChild variant="outline" size="lg">
-              <Link to="/contact">Get in Touch</Link>
-            </Button>
+        <div className="flex flex-col-reverse items-center gap-10 md:flex-row md:items-start md:justify-between">
+          <div className="max-w-2xl">
+            <Badge variant="secondary" className="mb-4 text-xs font-medium">
+              AI Agent Expert & Educator
+            </Badge>
+            <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
+              Building the Future with{" "}
+              <span className="text-primary">AI Agents</span>
+            </h1>
+            <p className="mt-5 text-lg leading-relaxed text-muted-foreground sm:text-xl">
+              I'm <strong className="text-foreground">Rajeev Jain</strong> — I help teams and individuals understand, build, and deploy intelligent AI agent systems that transform how work gets done.
+            </p>
+            <div className="mt-8 flex flex-wrap gap-3">
+              <Button asChild size="lg">
+                <Link to="/resources">
+                  Explore Resources <ArrowRight className="ml-1 h-4 w-4" />
+                </Link>
+              </Button>
+              <Button asChild variant="outline" size="lg">
+                <Link to="/contact">Get in Touch</Link>
+              </Button>
+            </div>
           </div>
+          <img
+            src={rajeevPhoto}
+            alt="Rajeev Jain"
+            className="h-40 w-40 shrink-0 rounded-full border-4 border-primary/20 object-cover shadow-lg sm:h-48 sm:w-48"
+          />
         </div>
       </div>
     </section>
