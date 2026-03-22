@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import Layout from "@/components/Layout";
+import rajeevPhoto from "@/assets/rajeev-jain.jpeg";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
