@@ -6,7 +6,8 @@ import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
 import { Card, CardContent } from "@/components/ui/card";
 import { useToast } from "@/hooks/use-toast";
-import { Bot, Github, Linkedin, Mail, MapPin, Send, Twitter } from "lucide-react";
+import { Github, Linkedin, Mail, MapPin, Send, Twitter } from "lucide-react";
+import rajeevPhoto from "@/assets/rajeev-jain.jpeg";
 
 const Contact = () => {
   const { toast } = useToast();
