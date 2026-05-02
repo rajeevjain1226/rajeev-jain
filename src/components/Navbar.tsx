@@ -6,6 +6,7 @@ import { cn } from "@/lib/utils";
 
 const navLinks = [
   { label: "Home", path: "/" },
+  { label: "Gen AI Course", path: "/genai-course" },
   { label: "Resources", path: "/resources" },
   { label: "Contact", path: "/contact" },
 ];

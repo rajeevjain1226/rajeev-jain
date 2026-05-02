@@ -7,6 +7,7 @@ import Index from "./pages/Index";
 import Resources from "./pages/Resources";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
+import GenAICourse from "./pages/GenAICourse";
 
 const queryClient = new QueryClient();
 
@@ -20,6 +21,7 @@ const App = () => (
           <Route path="/" element={<Index />} />
           <Route path="/resources" element={<Resources />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/genai-course" element={<GenAICourse />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
