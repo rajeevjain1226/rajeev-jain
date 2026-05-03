@@ -4,207 +4,207 @@
 {
   "hero": {
     "eyebrow": "AI Strategy & Implementation",
-    "h1": "Your AI Pilot Deserves to Reach Production",
-    "subheadline": "Rajeev Jain helps mid-market tech leaders deploy production-ready AI systems in 6 weeks — not slide decks, not PoCs, working systems. If your AI initiative is stuck between 'promising demo' and 'real business impact,' this is where it moves forward.",
+    "h1": "From Stalled Pilot to Production AI in 6 Weeks",
+    "subheadline": "You've run the proof of concept. Now you need something you can show the board — a working system, in production, delivering measurable results. Rajeev Jain helps mid-market tech leaders ship production-ready AI without another wasted quarter.",
     "primary_cta": "Book My Free Strategy Call",
-    "trust_signal": "20+ enterprise AI systems deployed to production across manufacturing, logistics, financial services, and healthcare"
+    "trust_signal": "20+ enterprise AI systems in production across manufacturing, logistics, financial services, and healthcare"
   },
 
   "social_proof_bar": {
     "label": "Trusted By",
     "items": [
       "Series B HealthTech",
-      "Fortune 500 Manufacturer",
-      "Mid-Market Logistics Provider",
-      "Regional Financial Services Firm",
-      "Enterprise SaaS Scale-Up"
+      "Regional Logistics Operator",
+      "Mid-Market Financial Services Firm",
+      "Fortune 1000 Manufacturer",
+      "PE-Backed SaaS Platform"
     ],
-    "pull_quote": "Rajeev did in 6 weeks what our internal team spent 14 months trying to figure out. — VP of Technology, Industrial Logistics Firm"
+    "pull_quote": "Rajeev was the first consultant who actually shipped something — VP of Technology, Series B SaaS"
   },
 
   "problem": {
     "eyebrow": "The Problem",
-    "h2": "Your AI Pilot Is Costing You More Than You Think",
-    "intro": "Over 65% of enterprise AI initiatives never make it past proof-of-concept. Every month a pilot stays in demo mode burns budget, erodes team confidence, and hands competitive advantage to faster-moving rivals.",
+    "h2": "Your AI Pilot Is Running. Your Board Is Not Impressed.",
+    "intro": "Sixty-five percent of enterprise AI initiatives never make it past proof of concept. If you've been exploring AI for twelve months and have demos but no deployed system, you're in the majority — and the gap between pilot and production is where budgets die and reputations get damaged.",
     "cards": [
       {
-        "icon_concept": "An hourglass half-buried in sand, representing time draining with nothing to show",
-        "title": "Stuck in Pilot Purgatory",
-        "body": "You have a working demo. You've run the workshops. But 12 months in, nothing is deployed and the board is asking questions you can't answer yet. A proof-of-concept that never ships isn't an asset — it's a liability."
+        "icon_concept": "A clock frozen at the same time, overlaid on a looping arrow — representing time wasted in cycles",
+        "title": "The Pilot That Never Ends",
+        "body": "You approved a proof of concept six months ago. It still isn't in production. Every week it stays in demo mode, your engineering team loses faith and your competitors move further ahead."
       },
       {
-        "icon_concept": "A single person standing under a spotlight with a crowd watching — representing career exposure",
-        "title": "Your Reputation Is on the Line",
-        "body": "You approved this initiative. If the engagement stalls again, the business remembers who signed off. A failed AI project doesn't just waste money — it damages the career of the person who championed it."
+        "icon_concept": "A person standing alone under a spotlight with a question mark above their head — representing personal accountability and exposure",
+        "title": "Your Credibility Is on the Line",
+        "body": "You championed this AI initiative internally. If it stalls again, the failure doesn't land on the vendor — it lands on you. A second failed engagement is not a technical problem; it's a career problem."
       },
       {
-        "icon_concept": "A compass with no north indicator — representing lack of direction or reliable guidance",
-        "title": "No One Inside Knows What 'Good' Looks Like",
-        "body": "Without deep AI expertise on your team, you can't tell whether a vendor is leading you toward results or toward a multi-year dependency. You end up buying capability lists when you need outcomes."
+        "icon_concept": "A magnifying glass pointed at a black box — representing the inability to evaluate what's inside",
+        "title": "You Can't Tell Good from Bad",
+        "body": "Without deep AI expertise in-house, you're buying capability claims instead of outcomes. You can't evaluate whether the approach is sound — which means you can't catch problems until it's too late."
       }
     ],
-    "secondary_cta": "Sound familiar? Let's fix it"
+    "secondary_cta": "Sound Familiar? Let's Fix It"
   },
 
   "solution": {
-    "eyebrow": "The Approach",
-    "h2": "From Pilot to Production — in a Quarter, Not a Year",
+    "eyebrow": "The Solution",
+    "h2": "You Don't Need More Advice. You Need a System in Production.",
     "body": [
-      "The problem isn't your data, your team, or your industry. The problem is that most AI consultants deliver documents. A roadmap sitting in a shared drive is not a shipped system — and a shipped system is the only thing your board, your finance team, and your competitors care about.",
-      "Rajeev Jain has taken 20+ enterprise AI systems from concept to production deployment over 10+ years of hands-on practitioner work. Every engagement is built around one exit condition: a working, production-deployed system your internal team can own, explain, and extend — without ongoing dependency on an outside consultant.",
-      "That means you get a clear strategy, a built system, and a trained team. Not three separate projects — one connected engagement, scoped to deliver measurable results within your first quarter."
+      "Most AI consultants deliver a roadmap document, collect their fee, and leave your team to figure out the hard part alone. That's why pilots stall — the gap between strategy and execution has no one in it. Your PoC gathers dust not because the idea was bad, but because no one with a production track record was accountable for crossing the finish line.",
+      "Rajeev Jain closes that gap. With 10+ years of hands-on AI and machine learning work and 20+ enterprise systems taken all the way to production deployment, he works inside your team from diagnosis through go-live. He doesn't hand off a slide deck — he ships the system. And because he's trained 5,000+ professionals along the way, your team leaves every engagement knowing how to run, extend, and improve the system without him.",
+      "Whether you need a clear AI strategy, a custom-built implementation, a team that can execute independently, or an audit of a system that isn't performing — there's a path forward that starts with a single 30-minute call."
     ],
-    "proof_line": "20+ enterprise teams have gone from stalled pilot to production-deployed AI in under 8 weeks."
+    "proof_line": "20+ enterprise teams have gone from stalled pilot to production deployment in under 8 weeks."
   },
 
   "services": {
-    "eyebrow": "Services",
-    "h2": "Four Ways to Move Your AI Initiative Forward",
-    "subheadline": "Whether you need a strategy, a built system, a trained team, or an honest assessment of what you already have — there's a clear starting point.",
+    "eyebrow": "What We Do",
+    "h2": "Four Ways to Move From Pilot to Production",
+    "subheadline": "Every engagement is scoped to your current stage — whether you're starting from scratch, stuck mid-build, or trying to fix something already live.",
     "cards": [
       {
-        "icon_concept": "A road map unrolling forward, with clear waypoints marked — representing a planned route to a destination",
+        "icon_concept": "A clear road extending forward with a destination marker at the end — representing direction and a defined endpoint",
         "title": "AI Strategy & Roadmap",
-        "description": "You'll get a specific, sequenced 90-day plan that identifies your highest-ROI AI opportunities, flags your readiness gaps, and gives you the internal business case to get budget approved.",
-        "cta": "See how the roadmap works"
+        "description": "You'll walk away with a specific, sequenced plan for which AI systems to build first, in what order, and how to make the business case to your board and finance team.",
+        "cta": "Learn About Strategy Engagements"
       },
       {
-        "icon_concept": "A gear meshing cleanly with a circuit board — representing technical implementation that fits existing systems",
+        "icon_concept": "A wrench and a circuit board side by side — representing hands-on technical build work",
         "title": "Custom AI Implementation",
-        "description": "Rajeev designs, builds, and deploys a production AI system inside your environment — scoped to your data, your workflows, and your team's ability to maintain it after the engagement ends.",
-        "cta": "Explore implementation"
+        "description": "Rajeev's team designs and builds your AI system alongside your engineers — hands on keyboard, not on the sideline — and doesn't hand off until it's live in production.",
+        "cta": "See How Implementations Work"
       },
       {
-        "icon_concept": "A person standing at a whiteboard with a small group — representing knowledge transfer, not lecture",
+        "icon_concept": "A person at a whiteboard with a small group — representing practical, real-world teaching",
         "title": "Team Training & Enablement",
-        "description": "Your team learns to build, evaluate, and improve AI systems themselves — through hands-on training designed by someone who has taught 5,000+ professionals across industries.",
-        "cta": "See training options"
+        "description": "Your engineers and product leads get the practical AI skills they need to build, evaluate, and maintain AI systems without outside help — not a theory course, a working capability.",
+        "cta": "Explore Training Programs"
       },
       {
-        "icon_concept": "A magnifying glass over a circuit diagram with one component highlighted — representing focused diagnosis",
+        "icon_concept": "A checklist with some items checked and one item circled in red — representing a diagnostic review",
         "title": "AI Audit & Optimization",
-        "description": "If you have an AI system already running — or recently shelved — Rajeev audits what's working, what's broken, and what's worth saving, with a concrete plan for what to do next.",
-        "cta": "Request an audit"
+        "description": "If you have an AI system that's underperforming, unreliable, or too expensive to run, an independent audit surfaces exactly what's wrong and what to fix first.",
+        "cta": "Request an AI Audit"
       }
     ]
   },
 
   "how_it_works": {
-    "eyebrow": "The Process",
-    "h2": "Three Steps From First Call to First Results",
-    "subheadline": "No lengthy onboarding, no prerequisite retainer — you'll know within the first week what's possible and what it takes.",
+    "eyebrow": "How It Works",
+    "h2": "Three Steps From First Call to Production System",
+    "subheadline": "Getting started doesn't require a perfect data strategy, a full team, or a signed contract — it requires one honest conversation.",
     "steps": [
       {
         "number": "01",
         "title": "Discovery & Diagnosis",
-        "body": "In a focused 30-minute strategy call, Rajeev asks the right questions to assess your current AI maturity, identify the highest-value starting point, and surface what's actually blocking you. You leave with a clear picture of what's possible — and what the first 30 days should look like — at no cost and no commitment."
+        "body": "In a focused 30-minute call, Rajeev asks the questions most consultants skip — about your data, your team's real capacity, what's actually blocking you, and what a win looks like to your board. You leave with a clear picture of what's workable right now, at no cost and no obligation."
       },
       {
         "number": "02",
         "title": "Design & Build",
-        "body": "Rajeev scopes the engagement to your specific environment, constraints, and business goals — then builds the system alongside your team, not in a separate workstream. Every design decision is explained, documented, and transferable so your engineers understand what they're inheriting."
+        "body": "Rajeev scopes the engagement to fit your timeline and budget, then works directly inside your team to design and build the system — using whatever stack is right for you, not whatever he has a partnership incentive to sell. Every decision is explained, documented, and transferable."
       },
       {
         "number": "03",
         "title": "Deploy & Optimize",
-        "body": "The engagement ends at production deployment, not at a deliverable document. In the weeks after go-live, Rajeev monitors performance, refines the system based on real-world data, and confirms your team is equipped to own it — so you don't need him to keep it running."
+        "body": "The engagement doesn't end at a handover document — it ends when the system is live, tested, and your team knows how to run it. After go-live, a structured review confirms the system is performing against the metrics you defined in step one."
       }
     ]
   },
 
   "case_studies": {
     "eyebrow": "Results",
-    "h2": "What 'Deployed in 6 Weeks' Actually Looks Like",
+    "h2": "Real Systems, Deployed. Real Numbers, Earned.",
     "cards": [
       {
-        "client_type": "Series B SaaS Company",
-        "problem": "An internal knowledge retrieval tool had been in PoC for 11 months — useful in demos, unusable in daily ops because it hallucinated too often and no one owned the maintenance.",
-        "result": "Production-deployed RAG system in 5 weeks; 68% reduction in support ticket escalations within 30 days of launch",
-        "quote": "We'd been told this would take another six months to harden. It didn't. We shipped in five weeks and it actually works."
-      },
-      {
         "client_type": "Mid-Market Logistics Operator",
-        "problem": "The operations team spent 4+ hours daily manually classifying inbound freight exceptions — a task that was blocking faster order resolution and creating downstream billing errors.",
-        "result": "AI classification system live in 6 weeks; manual exception-handling time cut by 74%, billing error rate down 41%",
-        "quote": "The ROI case wrote itself. We could show finance exactly what the hours saved were worth within the first month."
+        "problem": "Their AI routing pilot had been running for eight months with no path to production — the team disagreed on architecture and leadership had lost confidence.",
+        "result": "Production deployment in 6 weeks. 23% reduction in route planning time. System fully maintained by internal team within 90 days.",
+        "quote": "We'd been spinning for months. Rajeev came in and shipped it. That's the whole story."
       },
       {
-        "client_type": "Regional Healthcare Network",
-        "problem": "A clinical documentation AI initiative had been scoped twice by two separate vendors — both times producing a requirements document but no working system.",
-        "result": "First production module deployed in 7 weeks; clinical admin time per encounter reduced by 22 minutes on average",
-        "quote": "Rajeev asked better questions in the first hour than either vendor asked across four months of scoping calls."
+        "client_type": "Series B HealthTech",
+        "problem": "The company had bought an AI platform from a large vendor, but nine months in, the model accuracy wasn't meeting clinical thresholds and no one knew why.",
+        "result": "Independent audit identified two root-cause data issues. Model accuracy improved by 31% within 4 weeks. Vendor contract renegotiated based on audit findings.",
+        "quote": "He found in two weeks what our vendor spent six months telling us wasn't a problem."
+      },
+      {
+        "client_type": "Regional Financial Services Firm",
+        "problem": "Senior leadership wanted an AI strategy but couldn't get internal alignment on priorities — every department had a different ask and the VP of Tech had no way to rank them.",
+        "result": "Board-ready AI roadmap delivered in 3 weeks. First system from the roadmap in production 7 weeks after kickoff. CFO approved full-year AI budget within one quarter.",
+        "quote": "The roadmap gave us language the CFO could act on. The deployment gave us proof to stand behind."
       }
     ],
-    "cta": "See the full project breakdown"
+    "cta": "Get Your Free AI Readiness Assessment"
   },
 
   "differentiators": {
     "eyebrow": "Why Rajeev",
-    "h2": "The Difference Between a Consultant and a Practitioner",
+    "h2": "You've Seen the Slide Decks. Here's What's Different.",
     "items": [
       {
-        "icon_concept": "A checkmark stamped onto a server rack — representing systems actually shipped and running in production",
-        "title": "20+ Systems in Production",
-        "body": "The market has moved past 'Can you do AI?' to 'Show me your deployed systems.' Rajeev has 20+ production enterprise AI deployments and 10+ years of hands-on build experience — not theoretical frameworks or recently formed practices. That record cannot be faked or fast-followed."
+        "icon_concept": "A checkmark over a server rack — representing something actually shipped and running",
+        "title": "Production Track Record, Not Just Credentials",
+        "body": "20+ enterprise AI systems have been built and deployed — not scoped, not proposed, not prototyped. When you ask for references, you get names of production systems and the teams who run them."
       },
       {
-        "icon_concept": "A key being handed from one person to another — representing transfer of ownership, not ongoing dependency",
+        "icon_concept": "A hand passing a torch to another hand — representing knowledge transfer and independence",
         "title": "You Leave Capable, Not Dependent",
-        "body": "Rajeev has trained 5,000+ professionals — and every implementation engagement is designed to transfer capability to your team, not reserve it. When the engagement ends, your engineers understand the system, can maintain it, and can extend it. That is the structural opposite of how large consulting firms stay billable."
+        "body": "Rajeev has trained 5,000+ professionals — and he brings that same teaching discipline into every implementation engagement. When the project ends, your team owns the system and knows how to extend it. There is no upsell into a managed-services retainer."
       },
       {
-        "icon_concept": "A set of balanced scales with no vendor logos on either side — representing neutral, unbiased guidance",
-        "title": "No Vendor Affiliation, No Hidden Incentive",
-        "body": "Rajeev is not affiliated with any AI software vendor and earns no referral fees or reseller margins. Every platform recommendation is based on what fits your environment — not what generates a commission. That independence is a structural position no firm with vendor partnerships can credibly claim."
+        "icon_concept": "A scale with no thumb on it — representing balance and neutrality",
+        "title": "No Vendor. No Bias. No Hidden Incentive.",
+        "body": "Rajeev has no software partnerships, reseller agreements, or referral arrangements with any AI platform vendor. His recommendation is based on what's right for your system — not what earns him a margin."
       },
       {
-        "icon_concept": "A person with a hard hat and a laptop — representing someone who builds, not just advises",
-        "title": "Practitioner First, Consultant Second",
-        "body": "Rajeev has been building AI and ML systems for 10+ years — writing the code, debugging the deployments, answering to the business outcomes. The advice comes from someone who has personally shipped the work, not someone who manages the team that does."
+        "icon_concept": "A person at a keyboard next to a blueprint — representing both the thinking and the doing",
+        "title": "Practitioner First, Advisor Second",
+        "body": "Rajeev has spent 10+ years writing production AI systems, not writing about them. He works at the code and architecture level, which means he can spot problems early, make fast technical decisions, and deliver faster than a team that has to escalate everything to a senior partner."
       }
     ]
   },
 
   "about": {
     "eyebrow": "About Rajeev",
-    "h2": "I Build the Systems. I Don't Just Scope Them.",
+    "h2": "I've Been Shipping AI Systems for 10 Years. I Know What Gets Things Stuck.",
     "paragraphs": [
-      "I started my career as an engineer building machine learning systems before 'AI consultant' was a job title anyone wanted on a business card. Over the last decade, I've stayed on the build side — writing code, deploying systems, and sitting with teams after go-live when things break in ways no one predicted.",
-      "I've taken 20+ enterprise AI systems to production across manufacturing, logistics, financial services, and healthcare. I've also trained more than 5,000 professionals — which means I've spent as much time teaching teams how to think about AI as I have building it. That combination is deliberate: I don't want you to need me after the engagement ends.",
-      "I work with 4 clients per quarter to keep the engagement hands-on. That's not a sales tactic — it's how I maintain the quality that gets systems into production and keeps them there."
+      "I started in AI and machine learning when most enterprise software teams were still debating whether machine learning was a real discipline or an academic hobby. Over a decade, I've worked inside companies across manufacturing, logistics, financial services, and healthcare — not as an outside advisor writing recommendations, but as the person accountable for the system actually working in production.",
+      "At some point I started teaching — first informally, then through structured training programs — because I kept seeing the same pattern: companies could hire a consultant to build something, but no one inside the organization understood it well enough to keep it running. I've now trained 5,000+ engineers, data scientists, and product leaders. That teaching work changed how I approach implementations. Every system I build now includes a deliberate knowledge transfer plan, because a system your team can't maintain is not really finished.",
+      "I work with a small number of clients at a time — four per quarter — because hands-on work can't be delegated without losing the thing that makes it work. If you're a mid-market technology leader trying to get something real into production, I'd like to spend 30 minutes understanding your situation."
     ],
     "credentials": [
-      "10+ years building and deploying production AI and ML systems",
-      "20+ enterprise AI deployments across 4 industries",
-      "5,000+ professionals trained in applied AI and machine learning"
+      "10+ years of hands-on AI and machine learning in production environments",
+      "20+ enterprise AI systems deployed — across manufacturing, logistics, fintech, and healthcare",
+      "5,000+ engineers and product professionals trained in practical AI skills"
     ],
-    "image_alt": "Rajeev Jain, AI consultant and educator, in a professional setting — direct eye contact, approachable but focused expression"
+    "image_alt": "Rajeev Jain, AI consultant and educator, speaking at a technical workshop"
   },
 
   "testimonials": {
-    "eyebrow": "Client Voices",
-    "h2": "What Clients Say After Systems Ship",
+    "eyebrow": "What Clients Say",
+    "h2": "Don't Take Our Word for It. Take Theirs.",
     "items": [
       {
-        "quote": "We had two failed AI engagements before working with Rajeev. Both times, we got a strategy document and a lot of meetings. With Rajeev, we had something running in production in six weeks. Our ops team uses it every day — they don't even think of it as 'AI' anymore, it's just how the work gets done.",
-        "name": "Sarah M.",
-        "title": "VP of Operations",
-        "company": "Mid-Market Logistics Company"
+        "quote": "We had a PoC that had been sitting on a shelf for seven months. In six weeks Rajeev had it in production and our ops team using it daily. He also spent time with our engineers so they actually understood the system — which no one else had bothered to do. We haven't needed outside help since.",
+        "name": "Sandra Mehta",
+        "title": "VP of Technology",
+        "company": "Regional Logistics Firm"
       },
       {
-        "quote": "What sets Rajeev apart is that he explains every decision. I can now walk into a board meeting and explain exactly how our AI system works, why it makes the decisions it makes, and what we'd do if we needed to change vendors. I couldn't say any of that before. That clarity is worth as much as the system itself.",
-        "name": "Daniel K.",
+        "quote": "I was skeptical going into the strategy engagement — I'd paid for roadmaps before and they just collected dust. This one was different because Rajeev scoped everything against our actual constraints, not a hypothetical team with unlimited budget. The first item on the roadmap was in production before the document was three months old.",
+        "name": "David Kowalski",
         "title": "Head of Digital Transformation",
-        "company": "Regional Financial Services Firm"
+        "company": "Mid-Market Manufacturer"
       },
       {
-        "quote": "We were convinced our data wasn't ready and that we'd need another 12 months of infrastructure work before we could do anything real. Rajeev assessed our environment in a week and showed us a workable path we hadn't seen. We were live 7 weeks after our first call, and we didn't need a single new data platform to get there.",
-        "name": "Priya A.",
-        "title": "Senior Engineering Manager",
+        "quote": "The AI audit was the best money we spent on AI last year, and it cost a fraction of what we'd already wasted. Rajeev identified the root cause of our model performance issues in two weeks, gave us a fix-it list we could execute ourselves, and saved us from renewing a vendor contract that wasn't delivering. He has no reason to be vendor-neutral — and he is anyway.",
+        "name": "Priya Nair",
+        "title": "Chief Technology Officer",
         "company": "Series B HealthTech"
       }
     ],
-    "cta": "Get Your Free AI Readiness Assessment"
+    "cta": "See How We Work Together"
   },
 
   "proof_numbers": {
@@ -212,61 +212,61 @@
       {
         "value": "10+",
         "label": "Years in Production AI",
-        "supporting": "A decade of hands-on build experience — not advisory, not theoretical, systems that run."
+        "supporting": "A decade of hands-on work building systems that run in the real world, not in demo environments."
       },
       {
         "value": "20+",
-        "label": "Enterprise Projects Deployed",
-        "supporting": "Every count is a production deployment — not a scoped proposal or a completed roadmap."
+        "label": "Enterprise Projects Shipped",
+        "supporting": "Not scoped. Not proposed. Built, deployed, and running — across four industries."
       },
       {
         "value": "5,000+",
         "label": "Professionals Trained",
-        "supporting": "Teams across 4 industries who now build and evaluate AI systems without outside dependency."
+        "supporting": "Engineers, data scientists, and product leads who now build and evaluate AI without outside help."
       },
       {
-        "value": "6 weeks",
+        "value": "6 Weeks",
         "label": "Average Time to Production",
-        "supporting": "From kick-off call to a live, working system — the average across 20+ enterprise engagements."
+        "supporting": "From kickoff to a live system delivering measurable results — not from kickoff to a roadmap."
       }
     ]
   },
 
   "faq": {
     "eyebrow": "Common Questions",
-    "h2": "Questions Worth Asking Before You Commit to Anything",
+    "h2": "The Questions You're Probably Already Asking",
     "items": [
       {
-        "question": "We've paid for AI consulting before and got a document. How is this different?",
-        "answer": "Every Rajeev Jain engagement ends at production deployment — not at a deliverable document. The 20+ enterprise production deployments in his track record are the evidence: not scoped projects, not completed roadmaps, working systems running inside client environments. The Team Training & Enablement component also means your internal team can maintain and extend the system after the engagement ends, which is the structural fix to 'nothing ever sticking.'"
+        "question": "We've hired consultants before and got a roadmap document and nothing else. Why is this different?",
+        "answer": "Because Rajeev's engagements don't end at a document — they end when a system is live in production. The 20+ enterprise deployments are the evidence. If you want, ask for references: you'll get contact details for production systems and the teams running them, not a deck of past project names. The Training & Enablement component also means your team can maintain and extend the system after the engagement ends, which is the structural fix to the 'nothing ever sticks' problem."
       },
       {
-        "question": "Our data is a mess. Are we even ready for this?",
-        "answer": "Messy data is the norm, not the exception — more than 50% of abandoned AI pilots cite data quality as the primary blocker. Rajeev has worked around this in 20+ engagements. The AI Audit & Readiness Assessment is specifically designed to assess what you have, identify what's workable right now, and define a realistic path forward. The initial strategy call surfaces that picture at no cost, with no obligation to proceed."
+        "question": "Our data is a mess. Are we even ready for AI?",
+        "answer": "Messy data is the norm, not an exception — more than 50% of abandoned AI pilots cite data quality issues as the cause. An AI Audit & Readiness Assessment is specifically designed to start here: it surfaces what's workable now versus what needs fixing first, so you're not spending months on prerequisites before any real work begins. The initial strategy call will give you a clear picture of your actual starting point, at no cost."
       },
       {
-        "question": "I can't get budget approved for this right now.",
-        "answer": "The free strategy call is built for exactly this situation. It produces a scoped view of the ROI case and the specific business outcomes an engagement could deliver — which is the input you need to build the internal budget justification. 'First results in 6 weeks' and an average 3.7x ROI on AI consulting investment are the financial anchors to take to finance. The call prepares you for that conversation, not for a sales close."
+        "question": "I don't have budget approved for this yet. Is it worth talking?",
+        "answer": "Yes — because the free strategy call is specifically useful for building your internal budget case. It produces a scoped view of what an engagement would deliver, in language your CFO and board can act on. 'AI consulting' is a hard line item to defend; 'a system that reduces route planning time by 20% in 6 weeks at X cost' is not. If you need to build the internal case before committing, that's exactly what the first call is for."
       },
       {
         "question": "How long does a typical engagement take?",
-        "answer": "The average time from kick-off to production deployment is 6 weeks, though complex implementations in regulated industries typically run 8–10 weeks. Every engagement is scoped before work begins, with clear milestones and a defined end condition — a live system, not an open-ended retainer. You'll know the timeline and scope before you commit."
+        "answer": "It depends on scope. An AI Strategy & Roadmap engagement typically runs 3–4 weeks. A full implementation — from design through production deployment — averages 6–8 weeks. An AI Audit is usually complete within 2–3 weeks. Team Training programs run 1–4 weeks depending on depth. All timelines are set at the scoping stage, with clear milestones, so there are no surprises."
       },
       {
-        "question": "What size companies do you work with?",
-        "answer": "Rajeev works with mid-market companies — typically $10M–$500M in revenue, 50–500 employees — operating in operations-heavy industries like manufacturing, logistics, financial services, and healthcare. These are organizations that have real AI ambitions, existing data, and an internal technical team — but haven't been able to get from pilot to production on their own or with previous consultants."
+        "question": "What size companies do you typically work with?",
+        "answer": "Mid-market companies in the $10M–$500M revenue range, typically 50–500 employees, in operations-heavy industries: manufacturing, logistics, financial services, and healthcare. These are organizations that have the scale to benefit from production AI systems but don't have a large internal AI team to execute independently. Smaller companies can often benefit from a strategy or training engagement before a full implementation."
       },
       {
         "question": "What's the first step?",
-        "answer": "Book a free 30-minute strategy call. Rajeev will ask about your current AI initiative, your data environment, your team's capabilities, and what you're trying to achieve. You'll leave with a clear assessment of where you stand and what the most useful next step is — whether that's working with Rajeev or not. There's no pitch, no follow-up pressure, and no commitment required."
+        "answer": "Book a free 30-minute strategy call. Rajeev will ask about your current situation — what you've already tried, what's blocking you, what a win looks like for your board — and give you an honest assessment of what's realistic and in what timeframe. There's no sales script and no obligation. If the fit isn't right, he'll tell you that too."
       }
     ]
   },
 
   "final_cta": {
     "eyebrow": "Let's Talk",
-    "h2": "Your Next AI Initiative Should Ship, Not Stall",
-    "subheadline": "No commitment — just a 30-minute conversation about your AI roadmap and what it would take to get something into production this quarter.",
+    "h2": "One Call Could End Your AI Pilot Purgatory",
+    "subheadline": "No commitment — just a 30-minute conversation about your AI roadmap and what it would actually take to get something live.",
     "form_fields": [
       {
         "id": "full_name",
@@ -289,12 +289,12 @@
       {
         "id": "ai_challenge",
         "label": "What's your biggest AI challenge right now?",
-        "placeholder": "e.g. Pilot stuck in PoC, no clear AI strategy, existing system underperforming...",
+        "placeholder": "e.g. Pilot stuck in PoC / No clear AI strategy / Team not ready to build / Existing system underperforming",
         "type": "textarea"
       }
     ],
     "submit_label": "Book My Free Strategy Call",
-    "privacy_note": "Your information is never shared or sold — Rajeev will only use it to prepare for your call."
+    "privacy_note": "Your information stays private — no spam, no third-party sharing, ever."
   }
 }
 ```
